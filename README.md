@@ -1,2 +1,2 @@
 # Denoiser
-Example of denoising images on autoencoder basis
+Example of denoising using simple convolutional neural net
