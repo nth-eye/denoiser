@@ -1,2 +1,2 @@
 # Denoiser
-Example of denoising using simple convolutional neural net
+Example of denoising using U-Net type network
