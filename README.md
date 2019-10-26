@@ -5,4 +5,4 @@ Noisy
 Original
 Denoised
 
-![](result.png)
+![](result.jpg)
